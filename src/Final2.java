@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Final2 {
 	public static void main(String[] args) {
-		System.out.println("2°³ÀÇ °ªÀ» ÀÔ·ÂÇØÁÖ¼¼¿ä.");
+		System.out.println("2ê°œì˜ ê°’ì„ ì…ë ¥í•˜ì„¸ìš”.");
 		Scanner scanner = new Scanner(System.in);
 		String inputValue = scanner.nextLine();
 		

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Final {
 	public static void main(String[] args) {
-		System.out.println("±¸±¸´Ü ÀÔ·ÂÇÒ°ªÀº?");
+		System.out.println("êµ¬êµ¬ë‹¨ ì…ë ¥ í•  ê°’ì€?");
 		Scanner scanner = new Scanner(System.in);
 		int number = scanner.nextInt();
 	
